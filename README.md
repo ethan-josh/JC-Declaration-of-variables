@@ -1,0 +1,1 @@
+# JC-Declaration-of-variables
